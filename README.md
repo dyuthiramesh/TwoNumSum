@@ -2,6 +2,9 @@
 
 This repository contains a simple Android Studio project that demonstrates how to add two numbers in an Android app.
 
+# Youtube video Link:
+[![Alt text](https://img.youtube.com/vi/08xgPc1ToTU/0.jpg)](https://www.youtube.com/watch?v=08xgPc1ToTU)
+
 ## Description
 
 The app consists of two `EditText` fields where users can input two numbers, a `Button` to perform the addition operation, and a `TextView` to display the result.
